@@ -1,4 +1,4 @@
-# AngularBancoApp
+# CarlosBank
 
 ![Angular](https://img.shields.io/badge/Angular-v18-red) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v3-green) ![JWT](https://img.shields.io/badge/JWT-Auth-blue) ![Bootstrap](https://img.shields.io/badge/Bootstrap-v5-purple)
 
